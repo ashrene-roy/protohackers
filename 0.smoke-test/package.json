@@ -1,0 +1,14 @@
+{
+  "name": "0.smoke-test",
+  "version": "1.0.0",
+  "description": "TCP Echo Service from RFC 862.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashrene Roy",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
