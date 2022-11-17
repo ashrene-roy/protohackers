@@ -1,0 +1,11 @@
+{
+  "name": "2.means-to-an-end",
+  "version": "1.0.0",
+  "description": "TCP server that will let clients insert and query timestamped prices.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashrene Roy",
+  "license": "ISC"
+}
