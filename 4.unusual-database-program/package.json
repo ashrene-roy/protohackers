@@ -1,0 +1,11 @@
+{
+  "name": "4.unusual-database-program",
+  "version": "1.0.0",
+  "description": "Key-value store accessed over UDP",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashrene Roy",
+  "license": "ISC"
+}
